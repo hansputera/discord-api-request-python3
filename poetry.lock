@@ -1,0 +1,16 @@
+[[package]]
+category = "main"
+description = ""
+name = "sty"
+optional = false
+python-versions = "*"
+version = "1.0.0b12"
+
+[metadata]
+content-hash = "b9996651f80a600d6ca59d9ac9923ece637cf04bdad4824d0f697fca1f4699f5"
+python-versions = "^3.8"
+
+[metadata.files]
+sty = [
+    {file = "sty-1.0.0b12-py3-none-any.whl", hash = "sha256:46563babbe6e1944de9d013e9c1ffbde02c90ae4858b2fa47648f7b2f2b198ae"},
+]
